@@ -28,14 +28,14 @@ In Blokechain, we use the concept of occupying a future block for finalization. 
 
 Thus, instant finalization, true scalability, and fast communication through a separate network layer allow Blokechain to achieve unprecedented transaction processing speeds.
 
-Blokechain Duonomics is built on the use of two different coins. The purpose of the BKC coin is to be a transaction fee payment, and the BKG coin will be needed to issue BKC. This model separates blockchain investments and transaction fees, which solves many problems at once:
+Blokechain Duonomics is built on the use of two different coins. The purpose of the RAY coin is to be a transaction fee payment, and the SKY coin will be needed to issue RAY. This model separates blockchain investments and transaction fees, which solves many problems at once:
 
-* The burn mechanics of an investment BKG coin directly secures its value by the network activity - even if the number of daily transactions stays at the same level, the BKG price will continue to rise since its supply shrinks and the demand from the system remains constant.
-* The growth of the BKG price will not raise the cost of transaction fees paid in BKC.
-* BKC's inflation will ensure the long-term stability of commission prices relative to fiat currencies.
+* The burn mechanics of an investment SKY coin directly secures its value by the network activity - even if the number of daily transactions stays at the same level, the SKY price will continue to rise since its supply shrinks and the demand from the system remains constant.
+* The growth of the SKY price will not raise the cost of transaction fees paid in RAY.
+* RAY's inflation will ensure the long-term stability of commission prices relative to fiat currencies.
 * Increased Blokechain activity, unlike other blockchains, will reduce transaction fees.
-* Burning BKG will allow its supply to be lowered gradually rather than in a leap, as in the case of Bitcoin halving.
-* The separation of the commission paid in BKC and the rewards for validators accrued in BKG prevents frontrunning and makes it possible to assess the work of network nodes based on more factors besides the block production itself.
+* Burning SKY will allow its supply to be lowered gradually rather than in a leap, as in the case of Bitcoin halving.
+* The separation of the commission paid in RAY and the rewards for validators accrued in SKY prevents frontrunning and makes it possible to assess the work of network nodes based on more factors besides the block production itself.
 
 Separating tokenomics into inflationary and deflationary coins accomplishes a crucial goal. The interests of investors, users, and validators align since they all benefit from network activity growth.
 
