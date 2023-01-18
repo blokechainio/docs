@@ -18,7 +18,7 @@ description: A vehicle needed to participate in the race
 
 ### The Physics of The Flight
 
-Each cruiseship produced in our shipyard is equipped with an engine that creates artificial inertia in a given direction. Units of energy called Energons are constantly expended to maintain it. If they are not spent on maintaining speed, the artificial inertia will begin to decrease until the ship loses it entirely and stops. The greater the speed of the spaceship, the more Energons will be spent per unit of time to maintain it.
+Each cruiseship produced in our shipyard is equipped with an engine that creates artificial inertia in a given direction. Units of energy called Energons are constantly expended to maintain it. If they are not spent on maintaining speed, the artificial inertia will begin to decrease until the ship loses it entirely and stops. The greater the speed of the cruiseship, the more Energons will be spent per unit of time to maintain it.
 
 The main task of the pilot is to determine the hourly consumption of Energons. You can manually change this parameter at any time. The ship will begin to accelerate or decelerate accordingly until it reaches the speed that requires the specified amount of Energons per hour. Afterward, the cruiseship will maintain this speed until the pilot changes the Energon consumption or runs entirely out of Energons.
 
@@ -30,7 +30,7 @@ Both parameters of the ship can be improved temporarily with the in-game booster
 
 ### Prelaunch Catapult
 
-When you get a ship at the prelaunch stage, an electromagnetic catapult is used to launch it - you immediately start moving towards Blokechain by inertia. The spaceship cannot lose this real, not artificial, inertia. So when the ship is launched using an electromagnetic catapult, it does not fully stop when it loses its artificial inertia but continues to move with speed acquired by the primary acceleration.
+When you get a ship at the prelaunch stage, an electromagnetic catapult is used to launch it - you immediately start moving towards Blokechain by inertia. The cruiseship cannot lose this real, not artificial, inertia. So when the ship is launched using an electromagnetic catapult, it does not fully stop when it loses its artificial inertia but continues to move with speed acquired by the primary acceleration.
 
 After each launch, the electromagnetic catapult loses its power, and each subsequent launch will accelerate the ships less. After the start of the space race, all participants will start on their own, and their initial real inertia will be zero. This means that when they lose artificial inertia, they will stop completely.
 
