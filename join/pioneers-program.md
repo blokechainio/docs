@@ -28,7 +28,7 @@ Bring tangible value to the project and pass the entire Program absolutely free!
 
 #### What exactly is the Pioneer Program? <a href="#what-exactly-is-the-pioneer-program" id="what-exactly-is-the-pioneer-program"></a>
 
-The Pioneer Program is made as a space race game. Participants can increase the speed of their spaceship by:
+The Pioneer Program is made as a race game. Participants can increase the speed of their cruiseship by:
 
 * choosing the right engine mode;
 * obtaining resources in daily game events;
@@ -48,27 +48,27 @@ Since Blokechain is still under construction, we will have to use a different bl
 
 #### What do I need to enter the race? <a href="#what-do-i-need-to-enter-the-race" id="what-do-i-need-to-enter-the-race"></a>
 
-You will need one of the 9,000 Access Key NFTs to participate. Each key can be exchanged for a spaceship that automatically enrolls you in the race.
+You will need one of the 9,000 Access Key NFTs to participate. Each key can be exchanged for a cruiseship that automatically enrolls you in the race.
 
-Each ship has two characteristics that are important for the flight. The access keys also have these characteristics and transfer them to the spaceship. You can burn additional keys to enhance the ship's parameters at any time.
+Each ship has two characteristics that are important for the flight. The access keys also have these characteristics and transfer them to the cruiseship. You can burn additional keys to enhance the ship's parameters at any time.
 
 #### When will the race start? <a href="#when-will-the-race-start" id="when-will-the-race-start"></a>
 
-We plan to start the space competition in Q3-Q4 2023 - read more in our
+We plan to start the competition in Q3-Q4 2023 - read more in our
 
 [Roadmap](broken-reference)
 
 and stay tuned for announcements.
 
-Until the race starts, there are many things you can do to improve your future spaceship. Read more about ship enhancement in the
+Until the race starts, there are many things you can do to improve your future cruiseship. Read more about ship enhancement in the
 
-[Spaceship](broken-reference)
+[Cruiseship](cruiseship.md)
 
 section.
 
 #### How many participants will there be in the race? <a href="#how-many-participants-will-there-be-in-the-race" id="how-many-participants-will-there-be-in-the-race"></a>
 
-We do not know exactly. There will be 9000 access keys, each allowing participation in the race. But because anyone can burn additional keys to improve the spaceship, there will be considerably fewer than 9000 pioneers to actually take part in the race.
+We do not know exactly. There will be 9000 access keys, each allowing participation in the race. But because anyone can burn additional keys to improve the cruiseship, there will be considerably fewer than 9000 pioneers to actually take part in the race.
 
 #### Will all Pioneer Program participants become validators? <a href="#will-all-pioneer-program-participants-become-validators" id="will-all-pioneer-program-participants-become-validators"></a>
 
@@ -82,7 +82,7 @@ So you should better not fall too far behind!
 
 The crucial part of the Pioneers Program will be daily tournaments (lasting for approximately 5 minutes) on the "Astonite Mining" minigame, which pioneers will be playing simultaneously.
 
-Astonite needed to get the fuel for Spaceships will be distributed through these tournaments.
+Astonite needed to get the fuel for Cruiseships will be distributed through these tournaments.
 
 The tournament's start time will be shifted by one hour each day to keep everyone equal.
 

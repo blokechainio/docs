@@ -6,13 +6,13 @@ description: Pioneers Program is a closed event that needs a key to join
 
 ### NFTs Specification
 
-| **Utility** | <p>Obtaining a ship for the space race of future Blokechain validators.<br>Additional improvements to the cruiseship.</p> |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Supply**  | 9000 NFTs of 4 different types: A (600), B (1200), C (2400), D (4800).                                                    |
-| **Minting** | With WL till the first pioneer finishes the race.                                                                         |
-| **Buying**  | On the secondary market from those who have minted with WL.                                                               |
-| **Selling** | At any time on the secondary market.                                                                                      |
-| **Burning** | <p>When getting or upgrading a cruiseship.<br>Via the Team buyback and burn initiative.</p>                               |
+| **Utility** | <p>Obtaining a ship for the race of future Blokechain validators.<br>Additional improvements to the cruiseship.</p> |
+| ----------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Supply**  | 9000 NFTs of 4 different types: A (600), B (1200), C (2400), D (4800).                                              |
+| **Minting** | With WL till the first pioneer finishes the race.                                                                   |
+| **Buying**  | On the secondary market from those who have minted with WL.                                                         |
+| **Selling** | At any time on the secondary market.                                                                                |
+| **Burning** | <p>When getting or upgrading a cruiseship.<br>Via the Team buyback and burn initiative.</p>                         |
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th>Parameters</th><th>Distribution</th><th>Private sale</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Access Key Type A</strong><br>only <strong>600</strong> pcs</td><td>Engine Efficiency: <strong>27</strong><br>Inertia Retention: <strong>0</strong></td><td>500 keys will be minted via private sale<br>100 keys the Team will keep for marketing</td><td>~<strong>$400</strong> with <strong>WL Type A</strong></td><td></td></tr><tr><td><strong>Access Key Type B</strong><br>only <strong>1200</strong> pcs</td><td>Engine Efficiency: <strong>9</strong><br>Inertia Retention: <strong>0</strong></td><td>1000 keys will be minted via private sale<br>200 keys the Team will keep for marketing</td><td>~<strong>$200</strong> with <strong>WL Type B</strong></td><td></td></tr><tr><td><strong>Access Key Type C</strong><br>only <strong>2400</strong> pcs</td><td>Engine Efficiency: <strong>3</strong><br>Inertia Retention: <strong>0</strong></td><td>2000 keys will be minted via private sale<br>400 keys the Team will keep for marketing</td><td>~<strong>$100</strong> with <strong>WL Type C</strong></td><td></td></tr><tr><td><strong>Access Key Type D</strong><br>only <strong>4800</strong> pcs</td><td>Engine Efficiency: <strong>1</strong><br>Inertia Retention: <strong>0</strong></td><td>4000 keys will be minted via private sale<br>800 keys the Team will keep for marketing</td><td>~<strong>$50</strong> with <strong>WL Type D</strong></td><td></td></tr></tbody></table>
 
@@ -71,7 +71,7 @@ All the keys that would not be minted just will stay unissued.
 
 Our keys are not just pictures - they are actual certificates granting access to a unique event. They are limited in number and will be burned all the time.
 
-The more Blokechain gets real - the more people will be eager to become validators. And anyone who joins the Pioneer Program after the start of the space race will have to catch up with the others. To do that, they will need improved ships, which can only be obtained by burning a few keys.
+The more Blokechain gets real - the more people will be eager to become validators. And anyone who joins the Pioneer Program after the start of the race will have to catch up with the others. To do that, they will need improved ships, which can only be obtained by burning a few keys.
 
 Thus, the number of keys will only decrease over time, and the demand for them will increase.
 
@@ -81,7 +81,7 @@ Moreover, the Team will buy back those NFTs that are sold on the secondary marke
 
 Some of the keys will be lost or forgotten. Some will burn to improve cruiseships. Some holders will use their keys to get access to the race but will never participate. Some will participate only at the start. Some keys will never be minted. Some will be bought back by the Team and burned.
 
-Thus, we expect only a minority of initial key owners to be persistent enough to finish the space race before the Blokechain launch.
+Thus, we expect only a minority of initial key owners to be persistent enough to finish the race before the Blokechain launch.
 
 #### When will the keys have value?
 

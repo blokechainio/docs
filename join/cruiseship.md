@@ -32,9 +32,9 @@ Both parameters of the ship can be improved temporarily with the in-game booster
 
 When you get a ship at the prelaunch stage, an electromagnetic catapult is used to launch it - you immediately start moving towards Blokechain by inertia. The cruiseship cannot lose this real, not artificial, inertia. So when the ship is launched using an electromagnetic catapult, it does not fully stop when it loses its artificial inertia but continues to move with speed acquired by the primary acceleration.
 
-After each launch, the electromagnetic catapult loses its power, and each subsequent launch will accelerate the ships less. After the start of the space race, all participants will start on their own, and their initial real inertia will be zero. This means that when they lose artificial inertia, they will stop completely.
+After each launch, the electromagnetic catapult loses its power, and each subsequent launch will accelerate the ships less. After the start of the race, all participants will start on their own, and their initial real inertia will be zero. This means that when they lose artificial inertia, they will stop completely.
 
-Thus, the earlier you will burn the key, the farther from the Earth you will be when the space race officially starts, and the more kilometers will separate you from the majority of participants. Moreover, even if you run out of Energons during the race, you will still continue to move towards the finish, though at a relatively low speed.
+Thus, the earlier you will burn the key, the farther from the Earth you will be when the race officially starts, and the more kilometers will separate you from the majority of participants. Moreover, even if you run out of Energons during the race, you will still continue to move towards the finish, though at a relatively low speed.
 
 ### Cruiseship Upgrade
 
@@ -42,9 +42,9 @@ By burning additional keys, you can improve the ship's parameters at any moment 
 
 There is a special bonus for burning 4 different types of keys (A, B, C, D) to improve one ship. When a cruiseship is upgraded with all four types of keys, 20 points will be added to both parameters.
 
-### The Economy of The Flight
+### The Economy of The Race
 
-In the Pioneer Program, we decided to recreate the Blokechain tokenomics without simplifications to test it in real-life conditions before launching the blockchain. The only things we changed for the space race were to reduce the number of tokens to 100 000 and slightly accelerate the timing of the issuance.
+In the Pioneer Program, we decided to recreate the Blokechain tokenomics without simplifications to test it in real-life conditions before launching the blockchain. The only things we changed for the race were to reduce the number of tokens to 100 000 and slightly accelerate the timing of the issuance.
 
 Therefore, the relationship of Astonite -> Cosmogrinder -> Energon fully corresponds to the BKG-> Grinder -> BKC in Blokechain tokenomics.
 
