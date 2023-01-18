@@ -50,7 +50,7 @@ Since Blokechain is still under construction, we will have to use a different bl
 
 You will need one of the 9,000 Access Key NFTs to participate. Each key can be exchanged for a cruiseship that automatically enrolls you in the race.
 
-Each ship has two characteristics that are important for the flight. The access keys also have these characteristics and transfer them to the cruiseship. You can burn additional keys to enhance the ship's parameters at any time.
+Each ship has two characteristics that are important for the race. The access keys also have these characteristics and transfer them to the cruiseship. You can burn additional keys to enhance the ship's parameters at any time.
 
 #### When will the race start? <a href="#when-will-the-race-start" id="when-will-the-race-start"></a>
 

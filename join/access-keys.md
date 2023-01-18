@@ -43,7 +43,7 @@ The _**Engine Efficiency**_ parameter of the Access Key cannot be changed - it i
 
 The _**Inertia Retention**_ parameter can be improved through key staking. Every 30 days of staking the "Inertia Retention" raise its value by 1.
 
-For more details on how these parameters affect the ship flight please refer to the Cruiseship page.
+For more details on how these parameters affect the ship race please refer to the Cruiseship page.
 
 ### Buyback and Burn
 

@@ -16,7 +16,7 @@ description: A vehicle needed to participate in the race
 | **Selling** | At any time after the start of the race on the secondary market (with the loss of the achieved race result). |
 | **Burning** | When finishing at Blokechain.                                                                                |
 
-### The Physics of The Flight
+### The Physics of The Race
 
 Each cruiseship produced in our shipyard is equipped with an engine that creates artificial inertia in a given direction. Units of energy called Energons are constantly expended to maintain it. If they are not spent on maintaining speed, the artificial inertia will begin to decrease until the ship loses it entirely and stops. The greater the speed of the cruiseship, the more Energons will be spent per unit of time to maintain it.
 
