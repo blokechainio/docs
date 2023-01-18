@@ -20,7 +20,7 @@ description: The journey to the Moon and beyond
     * [x] Publication of the Introduction section of the documentation
     * [x] Elaboration of the Message Routing design details
     * [x] Elaboration of the Pioneers Program mechanics
-    * [x] Publication of the Pioneers Program section of the documentation
+    * [ ] Publication of the Pioneers Program section of the documentation
     * [x] Publication of the Tokenomics section of the documentation
 
     **February 2023**
@@ -46,12 +46,12 @@ description: The journey to the Moon and beyond
 
     * [ ] Distribution of 9000 Access Key NFTs continues
     * [ ] Start of Pioneers Program
-    * [ ] Development of the Blokechain blockchain
+    * [ ] Development of the Elysium blockchain
 
     **Q2 - Q3 2024**
 
     * [ ] Distribution of 9000 Access Key NFTs continues
-    * [ ] Development of the Blokechain blockchain
+    * [ ] Development of the Elysium blockchain
     * [ ] Launch of TestNet
 
     **Q4 2024**
