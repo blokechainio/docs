@@ -54,6 +54,10 @@ $$
 Fee=\frac{0.01\ast BKC_{supply}}{0.01\ast BKC_{supply}+TXN_{daily}}
 $$
 {% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/Minimalist tech company zoom virtual background (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 BKC **Issuance**
@@ -76,6 +80,10 @@ $$
 
 These calculations apply only to newly created BKCs. Simultaneously with the issuance, BKCs will be minted through Grinder to replace the burned commission.
 {% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 BKC **Circulating Supply**
@@ -95,6 +103,10 @@ After 1000 days the formula changes to keep the constant inflation rate:
 $$
 BKC_{supply}=\frac{10^7}{73}\cdot\left(day+6300\right)
 $$
+{% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -127,6 +139,10 @@ $$
 
 When the number of BKGs used for BKC issuance exeeds 990 000 000 there will remain only 1 000 000 of BKG coins and they will stop burning.
 {% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 BKG **Issuance**
@@ -147,6 +163,10 @@ The Grinder uses a virtual BKG system pool to issue BKG. The Grinder can only ta
 
 You can imagine - that there is a virtual AMM in Grinder with a pool of BKC **totally minted** / BKG **for issuance**. But the calculation of the BKG issue is done without having a real AMM - just by the constant product formula.
 {% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 BKG **Circulating Supply**
@@ -161,6 +181,10 @@ The circulating supply of BKG is calculated based on a computer model.
 
 It assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses BKG is directly proportional to the ratio of BKC and BKG coins in circulation.
 {% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 BKC **/** BKG **Rate**
@@ -172,6 +196,10 @@ The BKC / BKG rate depends very much on the initial distribution of coins - ther
 The BKC / BKG rate is calculated based on a computer model as a ratio of the BKC circulating supply and the BKG circulating supply.
 
 The model assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses BKG is directly proportional to the ratio of BKC and BKG coins in circulation.
+{% endtab %}
+
+{% tab title="Chart" %}
+<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
