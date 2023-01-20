@@ -20,8 +20,8 @@ description: The journey to the Moon and beyond
     * [x] Publication of the Introduction section of the documentation
     * [x] Elaboration of the Message Routing design details
     * [x] Elaboration of the Pioneers Program mechanics
-    * [x] Publication of the Pioneers Program section of the documentation
-    * [x] Publication of the Tokenomics section of the documentation
+    * [x] Publication of the [Pioneers Program](../join/pioneers-program.md) section of the documentation
+    * [x] Publication of the [Tokenomics](../tokenomics/) section of the documentation
 
     **February 2023**
 
