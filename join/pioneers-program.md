@@ -20,9 +20,9 @@ The only way to solve this contradiction is to make sure that at the moment of t
 
 The Pioneers Program is the original Sibyl wall replacement. Its concept is to create a single queue through which participants can progress with limited resources. This approach creates economic motivation to concentrate resources on advancing a single account to the top of the leaderboard rather than dividing resources among multiple accounts, which would end up at the bottom of the list.
 
-The output of the Program will be a single queue of initial Blokechain validators. They will join the network gradually, one by one. Since the primary store of value - the SKY token - has a decreasing issue over time, the place in the Pioneer Program will significantly affect how many SKY tokens a participant can mine. The higher the position in the Pioneer Program - the earlier you become a validator - the more tokens you will obtain.
+The output of the Program will be a single queue of initial Blokechain validators. They will join the network gradually, one by one. Since the primary store of value - the BKG token - has a decreasing issue over time, the place in the Pioneer Program will significantly affect how many BKG tokens a participant can mine. The higher the position in the Pioneer Program - the earlier you become a validator - the more tokens you will obtain.
 
-At Blokechain, at least 10% of all SKY tokens will be distributed among the initial validators during the first year alone. In other words, you can get a noticeable share of the unique blockchain's capitalization. It is worth noting that passing the wall in an already-running Blokechain blockchain will be more complicated than becoming an initial validator through the Pioneer Program.
+At Blokechain, at least 10% of all BKG tokens will be distributed among the initial validators during the first year alone. In other words, you can get a noticeable share of the unique blockchain's capitalization. It is worth noting that passing the wall in an already-running Blokechain blockchain will be more complicated than becoming an initial validator through the Pioneer Program.
 
 Bring tangible value to the project and pass the entire Program absolutely free!
 
@@ -44,7 +44,7 @@ In other words, this approach is much better at preventing Sybil attacks than KY
 
 #### What blockchain will the Pioneer Program run on? <a href="#what-blockchain-will-the-pioneer-program-run-on" id="what-blockchain-will-the-pioneer-program-run-on"></a>
 
-Since Blokechain is still under construction, we will have to use a different blockchain for the race. Most likely, it will be Polygon.
+Since Blokechain is still under construction, we will have to use a different blockchain for the race. Most likely, it will be Binance.
 
 #### What do I need to enter the race? <a href="#what-do-i-need-to-enter-the-race" id="what-do-i-need-to-enter-the-race"></a>
 
@@ -54,17 +54,9 @@ Each ship has two characteristics that are important for the race. The access ke
 
 #### When will the race start? <a href="#when-will-the-race-start" id="when-will-the-race-start"></a>
 
-We plan to start the competition in Q3-Q4 2023 - read more in our
+We plan to start the competition in Q3-Q4 2023 - read more in our Roadmap and stay tuned for announcements.
 
-[Roadmap](broken-reference)
-
-and stay tuned for announcements.
-
-Until the race starts, there are many things you can do to improve your future cruiseship. Read more about ship enhancement in the
-
-[Cruiseship](cruiseship.md)
-
-section.
+Until the race starts, there are many things you can do to improve your future cruiseship. Read more about ship enhancement in the [Cruiseship](cruiseship.md) section.
 
 #### How many participants will there be in the race? <a href="#how-many-participants-will-there-be-in-the-race" id="how-many-participants-will-there-be-in-the-race"></a>
 
@@ -118,11 +110,11 @@ If development goes according to plan, the capitalization of Blokechain can reac
 
 #### What type of computer do I need to be a validator? <a href="#what-type-of-computer-do-i-need-to-be-a-validator" id="what-type-of-computer-do-i-need-to-be-a-validator"></a>
 
-We will find it during the Testnet phase. But our PoV consensus is light and does not require heavy calculations. Also, it will use only a CPU, so at rough estimation, an ordinary workstation will do.
+We will find it during the Testnet phase. But our PoP consensus is light and does not require heavy calculations. Also, it will use only a CPU, so at rough estimation, an ordinary workstation will do.
 
 #### Do I need to run my computer 24 hours a day? <a href="#do-i-need-to-run-my-computer-24-hours-a-day" id="do-i-need-to-run-my-computer-24-hours-a-day"></a>
 
-It is on you. But while your node is offline, it will not be mining SKY.
+It is on you. But while your node is offline, it will not be mining BKG.
 
 #### Can I run the node program on the server? <a href="#can-i-run-the-node-program-on-the-server" id="can-i-run-the-node-program-on-the-server"></a>
 
